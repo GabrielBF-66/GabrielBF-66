@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#Olá, emu nome é Gabriel Bento Ferreira
+<h2>Olá, meu nome é Gabriel Bento Ferreira</h2>
 
 
