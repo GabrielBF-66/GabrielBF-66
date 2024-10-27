@@ -1,4 +1,6 @@
-## Olá Boas-Vindas Meu Nome é Gabriel Bento Ferreira. 👋
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
+## Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
 <!--
 **GabrielBF-66/GabrielBF-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +16,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
