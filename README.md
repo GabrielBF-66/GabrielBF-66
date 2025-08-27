@@ -2,12 +2,15 @@
 
 # Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
-<img width="150px" heigth="150px" src="https://discord.com/channels/@me/785558068938407938/1410090966483992659">
-
-<div>
+<div style="display: inline_block">
 <a href="https://github.com/GabrielBF-66">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBF-66&layout=compact&langs_count=7&bg_color=00000000"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBF-66&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBF-66&layout=compact&langs_count=7&bg_color=00000000"/><img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielBF-66&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
 </div>
+
+## Sobre Mim
+
+
+<img width="150px" heigth="150px" src="https://cdn.discordapp.com/attachments/785558068938407938/1410094067018371173/output-onlinegiftools.gif?ex=68afc3ef&is=68ae726f&hm=4826997009e44b30117001a1691f9f537e3725a0fec10f9876faeb77060fab8f&">
 
 ## Experiencias
 _*· Estagiário de TI<br>*_
@@ -38,3 +41,4 @@ _*· Presencial<br>*_
      <a href="mailto:gabrielfb317@gmail.com"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </div>
 
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
