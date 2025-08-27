@@ -22,10 +22,10 @@ _*· Presencial<br>*_
 </p>
 
 ## Linguagens e Tecnologias
-<div style="display: flex;flex_direction: row;gap: 10em;">
-     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<div style="display: flex;flex_direction: row;gap: 100em;">
+     <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+     <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+     <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
      <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
