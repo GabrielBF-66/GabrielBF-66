@@ -26,7 +26,7 @@ _*· Presencial<br>*_
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+<img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
 
 <hr>
 
