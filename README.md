@@ -1,7 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-## Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
+# Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
+
+## Linguagens de Programação
+![Linguagem HTML]<file:///C:/Users/Gabriel%20Bento/Downloads/icons8-html.svg>
 <!--
 **GabrielBF-66/GabrielBF-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
