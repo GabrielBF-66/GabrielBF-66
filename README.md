@@ -15,7 +15,7 @@ _*· Jaboticabal, São Paulo, Brasil<br>*_
 _*· Presencial<br>*_
 
 <p>
-      *Descrição:*
+      Descrição: 
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
       de qualquer outro tipo assim também como testar os computadores dos laboratórios
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
@@ -31,6 +31,7 @@ _*· Presencial<br>*_
 
 ## Contatos
 <div style="display: flex">
-     <img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />
-     <img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+     <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /></a>
+     <a href="https://codepen.io/Gabriel-Ferreira-Bento"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /></a>
+     <a href="mailto:gabrielfb317@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </div>
