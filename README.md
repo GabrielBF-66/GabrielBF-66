@@ -21,10 +21,8 @@ _*· Presencial<br>*_
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<div class="tenor-gif-embed" data-postid="10660376455808528935" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">Work Internet Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ## Linguagens e Tecnologias
-<div style="display: inline_block">
+<div style="display: flex;flex_direction: row">
      <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
      <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
      <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
