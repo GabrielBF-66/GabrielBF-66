@@ -8,13 +8,11 @@ programação C# para criação de Web Sites com Asp.Net ou Criação de aplicat
 Windows, estágiando na Faculdade São Luís.*_
 
 ## Experiencias
-<p>
-  · Estagiário de TI \n
-  · Faculdade São Luis de Jaboticabal \n
-  · Inicio mai de 2025 - o momento \n
-  · Jaboticabal, São Paulo, Brasil \n
-  · Presencial \n
-</p>
+<p>· Estagiário de TI</p>
+<p>· Faculdade São Luis de Jaboticabal</p>
+<p>· Inicio mai de 2025 - o momento</p>
+<p>· Jaboticabal, São Paulo, Brasil</p>
+<p>· Presencial</p>
 <p>
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
       de qualquer outro tipo assim também como testar os computadores dos laboratórios
@@ -22,10 +20,10 @@ Windows, estágiando na Faculdade São Luís.*_
 </p>
 
 ## Linguagens de Programação
-<img style="display:inline-block" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img style="display:inline-block" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img style="display:inline-block" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img style="display:inline-block" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<img style="display:inline;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img style="display:inline;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img style="display:inline;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img style="display:inline;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 <!--
 **GabrielBF-66/GabrielBF-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
