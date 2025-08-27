@@ -11,7 +11,7 @@ Windows.*_
 
 ## Linguagens de Programação
 <div>
-<img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
 ## Tecnologias
@@ -25,12 +25,13 @@ _*· Jaboticabal, São Paulo, Brasil<br>*_
 _*· Presencial<br>*_
 
 <p>
+      *Descrição:*
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
       de qualquer outro tipo assim também como testar os computadores dos laboratórios
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+<img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
 
 <hr>
 
