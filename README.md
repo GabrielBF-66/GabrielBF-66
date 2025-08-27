@@ -9,11 +9,11 @@ Windows, estágiando na Faculdade São Luís.*_
 
 ## Experiencias
 <p>
-  · Estagiário de TI
-  · Faculdade São Luis de Jaboticabal
-  · Inicio mai de 2025 - o momento
-  · Jaboticabal, São Paulo, Brasil
-  · Presencial
+  · Estagiário de TI \n
+  · Faculdade São Luis de Jaboticabal \n
+  · Inicio mai de 2025 - o momento \n
+  · Jaboticabal, São Paulo, Brasil \n
+  · Presencial \n
 </p>
 <p>
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
