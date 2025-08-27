@@ -14,11 +14,11 @@ Windows, estágiando na Faculdade São Luís.*_
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
 ## Experiencias
-<p>· Estagiário de TI</p>
-<p>· Faculdade São Luis de Jaboticabal</p>
-<p>· Inicio mai de 2025 - Fim agosto 2025</p>
-<p>· Jaboticabal, São Paulo, Brasil</p>
-<p>· Presencial</p>
+<p><b><i>· Estagiário de TI</i></b></p>
+<p><b><i>· Faculdade São Luis de Jaboticabal</i></b></p>
+<p><b><i>· Inicio mai de 2025 - Fim agosto 2025</i></b></p>
+<p><b><i>· Jaboticabal, São Paulo, Brasil</i></b></p>
+<p><b><i>· Presencial</i></b></p>
 <p>
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
       de qualquer outro tipo assim também como testar os computadores dos laboratórios
@@ -26,6 +26,8 @@ Windows, estágiando na Faculdade São Luís.*_
 </p>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+
+<hr>
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
