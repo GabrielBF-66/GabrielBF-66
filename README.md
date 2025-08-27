@@ -2,6 +2,8 @@
 
 # Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
+<img width="150px" heigth="150px" src="https://discord.com/channels/@me/785558068938407938/1410090966483992659">
+
 <div>
 <a href="https://github.com/GabrielBF-66">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBF-66&layout=compact&langs_count=7&bg_color=00000000"/><img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielBF-66&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
@@ -33,5 +35,6 @@ _*· Presencial<br>*_
 <div style="display: flex">
      <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /></a>
      <a href="https://codepen.io/Gabriel-Ferreira-Bento"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" /></a>
-     <a href="mailto:gabrielfb317@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+     <a href="mailto:gabrielfb317@gmail.com"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </div>
+
