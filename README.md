@@ -22,7 +22,7 @@ _*· Presencial<br>*_
 </p>
 
 ## Linguagens e Tecnologias
-<div style="display: flex;flex_direction: row;gap: 100em;">
+<div style="display: flex;flex_direction: row;gap: 100em">
      <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
      <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
      <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
@@ -30,7 +30,7 @@ _*· Presencial<br>*_
 </div>
 
 ## Contatos
-<div style="display: flex;flex_direction: row;gap: 10em;">
+<div style="display: flex;flex_direction: row;gap: 10em">
      <img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />
      <img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
 </div>
