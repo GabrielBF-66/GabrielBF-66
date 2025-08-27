@@ -1,7 +1,7 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <style>
-      .imagens {
+      #imagens {
             display: flex;
             flex-direction: row;
             gap: 10px;
@@ -16,7 +16,7 @@ programação C# para criação de Web Sites com Asp.Net ou Criação de aplicat
 Windows, estágiando na Faculdade São Luís.*_
 
 ## Linguagens de Programação
-<div class="imagens">
+<div id="imagens">
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
