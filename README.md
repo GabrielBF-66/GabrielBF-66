@@ -4,7 +4,7 @@
 
 
 ## Linguagens de Programação
-![Linguagem HTML]<file:///C:/Users/Gabriel%20Bento/Downloads/icons8-html.svg>
+![Linguagem HTML]<https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png>
 <!--
 **GabrielBF-66/GabrielBF-66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
