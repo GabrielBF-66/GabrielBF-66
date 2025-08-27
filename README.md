@@ -8,7 +8,9 @@ programação C# para criação de Web Sites com Asp.Net ou Criação de aplicat
 Windows, estágiando na Faculdade São Luís.*_
 
 ## Linguagens de Programação
+<div style="display:flex;gap:10px;">
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+</div>
 
 ## Tecnologias
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
