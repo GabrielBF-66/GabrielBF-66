@@ -21,12 +21,18 @@ _*· Presencial<br>*_
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<img width="150em" heigth="150em" href="https://tenor.com/pt-BR/view/work-internet-computer-penguin-working-gif-10660376455808528935">
+<div class="tenor-gif-embed" data-postid="10660376455808528935" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">Work Internet Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Linguagens e Tecnologias
-<div>
-<img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+<div style="display: inline_block">
+     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+     <img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+     <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 ## Contatos
-<img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+<div style="display: inline_block">
+     <img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" />
+     <img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
+</div>
