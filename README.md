@@ -8,9 +8,15 @@
 </div>
 
 ## Sobre Mim
+Estudante de Programação com um grande interesses por jogos e tudo que ronda jogos digitais.
 
+- 🎮 Estudando sobre o Framework MonoGame
+- 😄 Pronomes: ele/dele
 
-<img width="150px" heigth="150px" src="https://cdn.discordapp.com/attachments/785558068938407938/1410094067018371173/output-onlinegiftools.gif?ex=68afc3ef&is=68ae726f&hm=4826997009e44b30117001a1691f9f537e3725a0fec10f9876faeb77060fab8f&">
+<div>
+      <img width="150px" heigth="150px" src="https://cdn.discordapp.com/attachments/785558068938407938/1410094067018371173/output-onlinegiftools.gif?ex=68afc3ef&is=68ae726f&hm=4826997009e44b30117001a1691f9f537e3725a0fec10f9876faeb77060fab8f&">
+      <img width="150px" heigth="150px" src="https://cdn.discordapp.com/attachments/785558068938407938/1410098250735943771/gaming-game-on.gif?ex=68afc7d5&is=68ae7655&hm=5329844326f0e7baa145dc6071b8945fba703aa82f4ce2b97c77612f2a78454d&">
+</div>
 
 ## Experiencias
 _*· Estagiário de TI<br>*_
@@ -41,4 +47,5 @@ _*· Presencial<br>*_
      <a href="mailto:gabrielfb317@gmail.com"><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
+<!-- ![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg) -->
