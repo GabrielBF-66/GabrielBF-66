@@ -1,22 +1,16 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-<style>
-      #imagens {
-            display: flex;
-            flex-direction: row;
-            gap: 180em;
-      }
-</style>
-
 # Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
 ## Resumo
 _*Aluno Cursando Sistemas de Informação na Faculdade São Luis, com conhecimento na linguagem de
 programação C# para criação de Web Sites com Asp.Net ou Criação de aplicativos Desktop para
-Windows, estágiando na Faculdade São Luís.*_
+Windows.*_
+
+<div class="tenor-gif-embed" data-postid="10660376455808528935" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">Work Internet Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Linguagens de Programação
-<div id="imagens">
+<div>
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
 </div>
 
