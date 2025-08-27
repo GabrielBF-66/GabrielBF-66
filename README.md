@@ -21,7 +21,7 @@ _*· Presencial<br>*_
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<img width="150em" heigth="150em" src="https://tenor.com/pt-BR/view/work-internet-computer-penguin-working-gif-10660376455808528935">
+<img width="150em" heigth="150em" href="https://tenor.com/pt-BR/view/work-internet-computer-penguin-working-gif-10660376455808528935">
 
 ## Linguagens e Tecnologias
 <div>
