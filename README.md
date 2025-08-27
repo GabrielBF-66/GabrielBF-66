@@ -14,13 +14,12 @@ Windows, estágiando na Faculdade São Luís.*_
 <img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
 ## Experiencias
-<p>
-      · Estagiário de TI<br>
-      · Faculdade São Luis de Jaboticabal<br>
-      · Inicio mai de 2025 - Fim agosto 2025<br>
-      · Jaboticabal, São Paulo, Brasil<br>
-      · Presencial<br>
-</p>
+_*· Estagiário de TI<br>*_
+_*· Faculdade São Luis de Jaboticabal<br>*_
+_*· Inicio mai de 2025 - Fim agosto 2025<br>*_
+_*· Jaboticabal, São Paulo, Brasil<br>*_
+_*· Presencial<br>*_
+
 <p>
       No meu trabalho tenho as tarefas de testar equipamentos sejam eles monitores teclados ou
       de qualquer outro tipo assim também como testar os computadores dos laboratórios
