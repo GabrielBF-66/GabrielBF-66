@@ -3,7 +3,7 @@
 # Boas-Vindas, Meu Nome é Gabriel Bento Ferreira. 👋
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/GabrielBF-66">
 <img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBF-66&layout=compact&langs_count=7&bg_color=00000000"/><img loading="lazy" height="120em" src="https://github-readme-stats.vercel.app/api?username=GabrielBF-66&show_icons=true&bg_color=00000000&include_all_commits=true&count_private=true"/>
 </div>
 
@@ -21,15 +21,12 @@ _*· Presencial<br>*_
       usando ferramentas como o Dism++, e dar manutenção em computadores com problema.
 </p>
 
-<div class="tenor-gif-embed" data-postid="10660376455808528935" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935">Work Internet Sticker</a>from <a href="https://tenor.com/search/work-stickers">Work Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img width="150em" heigth="150em" src="https://tenor.com/pt-BR/view/work-internet-computer-penguin-working-gif-10660376455808528935">
 
-## Linguagens de Programação
+## Linguagens e Tecnologias
 <div>
-<img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img style="margin-rigth:20px;" width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /><img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
-
-## Tecnologias
-<img width="50px" heigth="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
 
 ## Contatos
 <img style="margin-rigth:20px;" width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-plain.svg" /><img width="25px" heigth="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" />
