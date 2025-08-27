@@ -4,7 +4,7 @@
       #imagens {
             display: flex;
             flex-direction: row;
-            gap: 10px;
+            gap: 180em;
       }
 </style>
 
